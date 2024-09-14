@@ -4,7 +4,6 @@ A thrilling 2D horror labyrinth game built with HTML5 Canvas and JavaScript. Nav
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -17,12 +16,6 @@ A thrilling 2D horror labyrinth game built with HTML5 Canvas and JavaScript. Nav
   - [Maze Generation](#maze-generation)
   - [Creature AI](#creature-ai)
   - [Levels and Difficulty](#levels-and-difficulty)
-
----
-
-## Demo
-
-_Coming soon!_
 
 ---
 
